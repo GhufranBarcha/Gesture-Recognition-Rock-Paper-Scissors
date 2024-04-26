@@ -14,7 +14,7 @@ To run the project locally, follow these steps:
 1. Clone the repository to your local machine:
 
 
-git clone https://github.com/your_username/rock-paper-scissors-recognition.git
+git clone https://github.com/GhufranBarcha/Gesture-Recognition-Rock-Paper-Scissors
 
 
 2. Install the required dependencies using pip:
